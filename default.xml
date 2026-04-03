@@ -11,16 +11,6 @@
   <default revision="refs/tags/android-16.0.0_r4"
            remote="aosp"
            sync-j="4" />
-  <remote  name="gitlab"
-           fetch="https://gitlab.com/" />
-  <remote  name="github"
-           fetch="https://github.com/" />
-  <remote  name="xd-gitlab"
-           fetch="https://gitlab.com/xdroid-oss"
-           revision="z0" />
-  <remote  name="xd-devices"
-           fetch="https://github.com/xdroid-devices"
-           revision="z0" />
 
   <superproject name="platform/superproject" remote="aosp" revision="android-16.0.0_r4"/>
   <contactinfo bugurl="go/repo-bug" />
