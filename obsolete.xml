@@ -30,6 +30,9 @@
   <remove-project name="platform/hardware/libhardware" />
   <remove-project name="platform/hardware/interfaces" />
 
+  <!-- Kernel -->
+  <remove-project name="kernel/configs" />
+
   <!-- Packages -->
   <remove-project name="platform/packages/apps/Settings" />
   <remove-project name="platform/packages/modules/Bluetooth" />
