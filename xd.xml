@@ -6,6 +6,7 @@
           revision="z0"  />
 
   <project path="bionic" name="bionic" remote="xdroid" />
+  <project path="bootable/recovery" name="bootable_recovery" remote="xdroid" />
   <project path="device/lineage/sepolicy" name="device_lineage_sepolicy" remote="xdroid" />
   <project path="build/make" name="build" remote="xdroid" >
    <copyfile src="core/root.mk" dest="Makefile" />
