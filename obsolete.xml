@@ -19,6 +19,7 @@
   <!-- External -->
   <remove-project name="platform/external/bouncycastle" />
   <remove-project name="platform/external/tinycompress" />
+  <remove-project name="platform/external/robolectric" />
 
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/av" />
