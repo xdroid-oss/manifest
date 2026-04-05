@@ -47,6 +47,7 @@
     <linkfile src="os_pickup_qssi.bp" dest="hardware/qcom-caf/sm8650/Android.bp" />
     <linkfile src="os_pickup_qssi.bp" dest="hardware/qcom-caf/sm8750/Android.bp" />
   </project>
+  <project path="packages/apps/Springboard" name="packages_apps_Springboard" remote="xdroid" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="xdroid" />
   <project path="packages/apps/ColumbusService" name="packages_apps_ColumbusService" remote="xdroid" />
   <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" remote="xdroid" />
