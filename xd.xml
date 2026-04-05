@@ -24,6 +24,7 @@
   <project path="external/bouncycastle" name="external_bouncycastle" remote="xdroid" />
   <project path="external/tinycompress" name="external_tinycompress" remote="xdroid" />
   <project path="external/robolectric" name="external_robolectric" remote="xdroid" />
+  <project path="external/gptfdisk" name="external_gptfdisk" remote="xdroid" />
   <project path="frameworks/av" name="frameworks_av" remote="xdroid" />
   <project path="frameworks/base" name="frameworks_base" remote="xdroid" />
   <project path="frameworks/native" name="frameworks_native" remote="xdroid" />

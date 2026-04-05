@@ -23,6 +23,7 @@
   <remove-project name="platform/external/bouncycastle" />
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/external/robolectric" />
+  <remove-project name="platform/external/gptfdisk" />
 
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/av" />
