@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="xdroid"
-          fetch="https://github.com/xdroid-oss/"
+          fetch="git@github.com:xdroid-oss/"
           revision="z0"  />
 
   <project path="bionic" name="bionic" remote="xdroid" />
