@@ -66,6 +66,7 @@
   <project path="system/core" name="system_core" remote="xdroid" />
   <project path="system/sepolicy" name="system_sepolicy" remote="xdroid" />
   <project path="system/update_engine" name="system_update_engine" remote="xdroid" />
+  <project path="system/memory/libmeminfo" name="system_memory_libmeminfo" remote="xdroid" />
   <project path="vendor/xdroid" name="vendor_xdroid" remote="xdroid" />
   <project path="vendor/xdroidui" name="vendor_xdroidui" remote="xdroid" />
   <project path="vendor/gms" name="vendor_gms" remote="xdroid" />
