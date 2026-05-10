@@ -30,6 +30,7 @@
   <project path="frameworks/av" name="frameworks_av" remote="xdroid" />
   <project path="frameworks/base" name="frameworks_base" remote="xdroid" />
   <project path="frameworks/native" name="frameworks_native" remote="xdroid" />
+  <project path="frameworks/libs/systemui" name="frameworks_libs_systemui" remote="xdroid" />
   <project path="hardware/google/pixel" name="hardware_google_pixel" remote="xdroid" />
   <project path="hardware/xiaomi" name="hardware_xiaomi" remote="xdroid" />
   <project path="hardware/interfaces" name="hardware_interfaces" remote="xdroid" />
